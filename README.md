@@ -1,4 +1,4 @@
-# * Machine Learning Open Learning Source*
+# *Machine Learning Open Learning Source*
 
 ### *Planning* 
 >##### [The Open-Source Data Science Masters](https://github.com/datasciencemasters/go/blob/master/README.md)
