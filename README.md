@@ -2,7 +2,7 @@
 
 ### *Planning* 
 >##### [The Open-Source Data Science Masters](https://github.com/datasciencemasters/go/blob/master/README.md)
-
+>##### [kaggle - General Tutorials](https://www.kaggle.com/wiki/Tutorials)
 
 ### *Tools* 
 >##### [Markdown Tutorial](https://github.com/time2036/Machine_Learning_Notes/blob/master/Markdown%20Tutorial.md)
