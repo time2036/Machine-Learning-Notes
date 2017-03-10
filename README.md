@@ -5,7 +5,7 @@
 
 
 ### *Tools* 
->##### [Markdown Tutorial](http://eherrera.net/markdowntutorial/)
+>##### [Markdown Tutorial](https://github.com/time2036/Machine_Learning_Notes/blob/master/Markdown%20Tutorial.md)
 >##### [iPython Notebook Keyboard Shortcuts](http://johnlaudun.org/20131228-ipython-notebook-keyboard-shortcuts/)
 
 
