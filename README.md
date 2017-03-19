@@ -26,6 +26,8 @@
 
 
 ### *Machine Learning: Python, Matlab*
+>## Python [Pandas](http://pandas.pydata.org/pandas-docs/stable/tutorials.html)
+
 
 | Course Name                               | Instructor           | Institution     | URL          |
 | ----------------------------------------- |:--------------------:| ------------:   | ------------:| 
