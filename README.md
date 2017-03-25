@@ -27,16 +27,8 @@
 
 ### *Machine Learning: Python, Matlab*
 >##### Python [Pandas Tutorials](http://pandas.pydata.org/pandas-docs/stable/tutorials.html)
-
-
-| Course Name                               | Instructor           | Institution     | URL          |
-| ----------------------------------------- |:--------------------:| ------------:   | ------------:| 
-| Machine Learning                          | XXX                  | U Washington    | [Coursera](https://www.coursera.org/specializations/machine-learning)|
-| Introduction to Artificial Intelligence   | Thrun,Norvig         | Stanford, Google| [Udacity](https://www.udacity.com/course/cs271)|
-
+>##### [Introduction to Artificial Intelligence](https://www.udacity.com/course/cs271)[Udacity - Stanford, Google]
 >##### [Lecture Collection | Machine Learning](https://www.youtube.com/playlist?list=PLA89DCFA6ADACE599&spfreload=10) [Stanford,Andrew Ng]
-
-
 >##### [Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning) [University of Washington, Coursera-6]  ★★★
 >##### [Data Science](http://bit.ly/harvarddatasciencevideos) & [Course](http://bit.ly/harvarddatasciencecourse)[Harvard]
 Data wrangling, data management, exploratory data analysis to generate hypotheses and intuition, prediction based on statistical methods such as regression and classification, communication of results through visualization, stories, and summaries.
