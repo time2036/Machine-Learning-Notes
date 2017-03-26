@@ -41,15 +41,12 @@ Data wrangling, data management, exploratory data analysis to generate hypothese
 
 ### *Big Data: Hadoop with MapReduce, Spark, Pig and Hive, NoSQL*
 >##### [Data Science at Scale Specialization](https://www.coursera.org/specializations/data-science) [University of Washington, Coursera-4]
-Python NLP on Twitter API, Distributed Computing Paradigm, MapReduce/Hadoop & Pig Script, SQL/NoSQL, Relational Algebra, Experiment design, Statistics, Graphs, Amazon EC2, Visualization.
- 
 >##### [Big Data](https://www.coursera.org/specializations/executive-data-science) [University of California, San Diego, Coursera-6]
 >##### [Hadoop Platform and Application Framework](https://www.coursera.org/learn/hadoop) [University of California, San Diego, Coursera-1]
 >##### [Cloud Computing Specialization](https://www.coursera.org/specializations/cloud-computing) [University of Illinois at Urbana-Champaign, Coursera-6]
 
 ### *Visualizations*
 >##### [plot](https://plot.ly/python/ipython-notebook-tutorial/#introduction) [web]
-
 
 
 ***
